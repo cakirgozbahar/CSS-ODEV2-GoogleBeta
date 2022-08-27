@@ -1,0 +1,53 @@
+body{
+    display: block;
+    background-color: #fff;
+}
+.google{
+    text-align: center;
+    height: 150;
+    padding-top: 6%;
+}
+.search{
+    background-color: rgb(238,238,238);
+    text-align: center;
+    margin:0 20%;
+}
+.box1{
+    background-color: #7EE5DA;
+    text-align: center;
+    margin:0 1% 0 20%;
+    float:left;
+    padding: 2%;
+    height: 90px;
+    width: 180px;
+ 
+
+}
+.box2{
+    background-color: #70CCC2;
+    text-align: center;
+    margin: 0 1% 0 0;
+    padding: 2%;
+    float: left;
+    height: 90px;
+    width: 140px;
+    
+}
+.box3{
+    background-color: #62b3aa;
+    text-align: center;
+    margin: 0;
+    padding: 2%;
+    float: left;
+    height: 90px;
+    width: 260px;
+}
+.foot{
+    float: left;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    margin-top: 5px;
+    padding-top: 12px;
+
+}
